@@ -9,3 +9,6 @@ sources for (some of) the challenges in poliCTF 2015
 
 ## Pwnable
 - Hanoi as a service (50): https://github.com/PoliCTF/sources2015/tree/master/haas-pwnable-50
+
+## Reversing
+- John The Packer (350): https://github.com/JinBlack/John-The-Packer
